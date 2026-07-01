@@ -1,0 +1,204 @@
+# -----------------------------------
+# Site Settings
+# -----------------------------------
+
+title: "Ashutosh"
+name: "Ashutosh "
+description: >-
+  IPM Student at IIM Jammu specializing in Business Analytics,
+  Data Analytics, Artificial Intelligence, Consulting,
+  and Case Competitions .
+
+url: "https://yourusername.github.io"
+baseurl: ""
+
+repository: yourusername/yourusername.github.io
+
+locale: "en-US"
+timezone: "Asia/Kolkata"
+
+# -----------------------------------
+# Theme
+# -----------------------------------
+
+remote_theme: "academicpages/academicpages"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-include-cache
+
+# -----------------------------------
+# Author
+# -----------------------------------
+
+author:
+  avatar: "profile.jpg"
+  name: "Ashutosh"
+
+  bio: >
+    IPM Student at IIM Jammu |
+    National Case Competition Semi-Finalist |
+    Data Analytics Enthusiast |
+    Business Analyst
+
+  location: "Jammu, India"
+
+  employer: "Indian Institute of Management Jammu"
+
+  email: "ipm25035@iimj.ac.in"
+
+  uri: "https://yourusername.github.io"
+
+  googlescholar:
+  orcid:
+  github: yourusername
+  linkedin: ashutosh-d
+  kaggle:
+  medium:
+  twitter:
+  youtube:
+  instagram:
+
+# -----------------------------------
+# Navigation
+# -----------------------------------
+
+header_pages:
+  - introduction.md
+  - education.md
+  - achievements.md
+  - experience.md
+  - contact.md
+
+# -----------------------------------
+# Collections
+# -----------------------------------
+
+collections:
+  teaching:
+    output: true
+
+  publications:
+    output: true
+
+  portfolio:
+    output: true
+
+  talks:
+    output: true
+
+# -----------------------------------
+# Defaults
+# -----------------------------------
+
+defaults:
+
+  -
+    scope:
+      path: ""
+      type: pages
+
+    values:
+      layout: single
+      author_profile: true
+
+  -
+    scope:
+      path: ""
+      type: portfolio
+
+    values:
+      layout: single
+
+# -----------------------------------
+# Markdown
+# -----------------------------------
+
+markdown: kramdown
+highlighter: rouge
+
+permalink: /:categories/:title/
+
+paginate: 5
+
+# -----------------------------------
+# Search
+# -----------------------------------
+
+search: true
+search_full_content: true
+
+# -----------------------------------
+# SEO
+# -----------------------------------
+
+social:
+  type: Person
+  name: Ashutosh Kumar
+
+twitter:
+  username:
+  card: summary_large_image
+
+# -----------------------------------
+# Footer
+# -----------------------------------
+
+footer:
+  links:
+
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/yourusername"
+
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/ashutosh-d"
+
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:ipm25035@iimj.ac.in"
+
+# -----------------------------------
+# Reading Files
+# -----------------------------------
+
+include:
+  - _pages
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# -----------------------------------
+# Analytics (Optional)
+# -----------------------------------
+
+google_analytics:
+
+# -----------------------------------
+# Comments
+# -----------------------------------
+
+comments:
+  provider: false
+
+# -----------------------------------
+# Homepage Sections
+# -----------------------------------
+
+homepage:
+  sections:
+    - introduction
+    - education
+    - achievements
+    - experience
+    - contact
