@@ -11,10 +11,10 @@ I am passionate about **Business Analysis, Data Analytics, Artificial Intelligen
 ## 📄 Resume
 
 ### 📥 Download Resume
-[⬇️ Download Resume](https://your-download-link-here)
+[⬇️ Download Resume](https://1drv.ms/w/c/5dd85fccc382bd99/IQCkj2NesUisRrvoxspXuSRCAYE4iZ-_92zrXh9IndlWLic?e=rYwMys)
 
 ### 👀 View Resume
-[📖 View Resume](https://your-view-link-here)
+[📖 View Resume](https://1drv.ms/w/c/5dd85fccc382bd99/IQCkj2NesUisRrvoxspXuSRCAYE4iZ-_92zrXh9IndlWLic?e=rYwMys)
 
 ---
 
