@@ -1,8 +1,8 @@
 # ashutosh
-# 👋 Hi, I'm Ashutosh Kumar
+# 👋 Hi, I'm Ashutosh 
 
 🎓 **Integrated Program in Management (IPM) Student** at **IIM Jammu**  
-📍 Jammu, India
+📍 Panipat, Haryan
 
 I am passionate about **Business Analysis, Data Analytics, Artificial Intelligence, and Problem Solving**. I enjoy working on business case competitions, learning new technologies, and continuously improving my analytical and communication skills.
 
